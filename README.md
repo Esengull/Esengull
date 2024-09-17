@@ -2,3 +2,4 @@ Crate table Pruduct (
 PRODUCTID INT ITENTITY(1,1),
 NAME VARCHAR(100),
 descripiton Varchar(250))
+Select * from Pruduct 
